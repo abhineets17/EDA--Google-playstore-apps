@@ -1,2 +1,4 @@
 # EDA--Google-playstore-apps
 Exploratory Data Analysis on Goolge Playstore Apps Data
+Google Play Store or formerly Android Market, is a digital distribution service developed and operated by Google. It is an official apps store that provides variety content such as apps, books, magazines, music, movies and television programs. It serves an as platform to allow users with 'Google certified' Android operating system devices to donwload applications developed and published on the platform either with a charge or free of cost. With the rapidly growth of Android devices and apps, it would be interesting to perform data analysis on the data to obtain valuable insights.
+The dataset that is going to be used is 'Google Play Store Apps' from Kaggle. It contains thousands of web scraped Play Store apps data for analysing the Android market. The tools that are going to be used for this EDA would be numpy, pandas, matplotlib and seaborn etc.
